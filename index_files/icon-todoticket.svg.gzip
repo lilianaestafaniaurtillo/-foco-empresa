@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 72 72">
+  <!-- Generator: Adobe Illustrator 29.8.5, SVG Export Plug-In . SVG Version: 2.1.1 Build 2)  -->
+  <defs>
+    <style>
+      .st0, .st1, .st2 {
+        fill: none;
+      }
+
+      .st0, .st3, .st4, .st2 {
+        stroke: #000;
+      }
+
+      .st0, .st4, .st2 {
+        stroke-miterlimit: 10;
+      }
+
+      .st5 {
+        fill: #d3ddd8;
+      }
+
+      .st5, .st6, .st1, .st4 {
+        isolation: isolate;
+        opacity: .95;
+      }
+
+      .st6, .st4 {
+        fill: #ff6a13;
+      }
+
+      .st7, .st3 {
+        fill: #fff;
+      }
+
+      .st1 {
+        stroke: #ff6a13;
+      }
+
+      .st1, .st3 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .st4 {
+        stroke-width: .75px;
+      }
+
+      .st2 {
+        stroke-width: 5px;
+      }
+    </style>
+  </defs>
+  <g>
+    <path class="st3" d="M44.59,55.16s-2.81-7.79,2.09-12.77l5.6-6.12-9.05-20.61s.56-5.07,5.47-2.85c2.43,1.1,11.11,12.07,11.11,12.07,0,0,8.45,9.12,6.22,16.43l-8.25,27.7-15.91-4.74,2.71-9.1Z"/>
+    <line class="st0" x1="44.47" y1="55.81" x2="60.31" y2="60.52"/>
+    <circle class="st6" cx="46.57" cy="59.32" r="1.08"/>
+  </g>
+  <g>
+    <rect class="st3" x="12.51" y="12.77" width="45.13" height="28.22" rx="2" ry="2" transform="translate(51.14 68.05) rotate(-148.78)"/>
+    <line class="st2" x1="18.58" y1="10.59" x2="57.17" y2="33.97"/>
+    <rect class="st4" x="13.06" y="25.65" width="20.17" height="5.51" rx="1" ry="1" transform="translate(28.21 64.7) rotate(-148.78)"/>
+  </g>
+  <g>
+    <rect class="st3" x="11.52" y="23.61" width="45.13" height="28.22" rx="2" ry="2" transform="translate(-4.34 4.43) rotate(-6.99)"/>
+    <line class="st1" x1="34.85" y1="29.26" x2="52.74" y2="27.06"/>
+    <rect class="st5" x="17.04" y="44.08" width="10.46" height="5.51" rx="1" ry="1" transform="translate(-5.53 3.06) rotate(-6.99)"/>
+    <line class="st1" x1="35.12" y1="31.5" x2="53.02" y2="29.31"/>
+    <rect class="st4" x="15.07" y="29.63" width="12.67" height="5.51" rx="1" ry="1" transform="translate(-3.78 2.85) rotate(-6.99)"/>
+    <rect class="st5" x="30.26" y="42.13" width="10.46" height="5.51" rx="1" ry="1" transform="translate(-5.2 4.65) rotate(-6.99)"/>
+    <rect class="st5" x="43.48" y="40.14" width="10.46" height="5.51" rx="1" ry="1" transform="translate(-4.86 6.25) rotate(-6.99)"/>
+  </g>
+  <g>
+    <path class="st3" d="M44.51,54.97s-3.4-7.7,2.63-13.22l-5.32-10.21s.84-9.08,7.35-4.45l10.18,18.3"/>
+    <polygon class="st7" points="54.68 39.96 60.81 49.11 51.76 56.78 47.89 49.07 54.68 39.96"/>
+  </g>
+</svg>
